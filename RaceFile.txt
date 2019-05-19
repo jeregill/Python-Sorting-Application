@@ -1,0 +1,7 @@
+The time for <class 'strategy.BubbleSort'> was 0.0 seconds 
+The time for <class 'strategy.InsertionSort'> was 0.0010018 seconds 
+The time for <class 'strategy.QuickSort'> was 0.0618338 seconds 
+The time for <class 'strategy.MergeSort'> was 0.0049861 seconds 
+The time for <class 'strategy.SelectionSort'> was 0.0708364 seconds 
+The time for <class 'strategy.HeapSort'> was 0.0119407 seconds 
+The time for <class 'strategy.QuickSelect'> was 0.0448821 seconds 
